@@ -1,3 +1,5 @@
+I am deprecating this project for now, will try to continue this in future
+
 # MiniGit
 
 ## Overview
